@@ -160,7 +160,7 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Ehoneah Obed - [Github](https://github.com/ehoneahobed) / [Twitter](https://ehoneahobed.com/twitter)
 Paul Mwangi - [Github] (https://github.com/palvin254)
-Emaye Andrew - [Github] (https://github.com/andycool88)
+Emaye Andrew - (https://github.com/andycool88)
 
 Second part of Airbnb: Joann Vuong
 ## License
